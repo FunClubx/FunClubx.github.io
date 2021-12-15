@@ -1,9 +1,0 @@
-{
-    "Categories": [],
-    
-	"Wallpapers":
-        [
-			{"name":"w1", "author": "", "thumbUrl":"jd1.dt", "url":"vd1.dt", "category":"parallax", "parallax":"true","premium":"true", "sku": ""},
-			{"name":"w2", "author": "", "thumbUrl":"jd2.dt", "url":"vd2.dt", "category":"parallax", "parallax":"true","premium":"true", "sku": ""}
-		]
-}
