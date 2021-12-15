@@ -1,0 +1,9 @@
+{
+    "Cate": [],
+    
+	"Wps":
+        [
+			{"name":"w1", "aut": "", "thu":"jd1.dt", "url":"vd1.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w2", "aut": "", "thu":"jd2.dt", "url":"vd2.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""}
+		]
+}
