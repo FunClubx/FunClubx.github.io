@@ -40,6 +40,9 @@
 			{"name":"w54", "aut": "", "thu":"jd54.dt", "url":"vd54.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 			{"name":"w56", "aut": "", "thu":"jd56.dt", "url":"vd56.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 			{"name":"w57", "aut": "", "thu":"jd57.dt", "url":"vd57.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w58", "aut": "", "thu":"jd58.dt", "url":"vd58.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w59", "aut": "", "thu":"jd59.dt", "url":"vd59.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w60", "aut": "", "thu":"jd60.dt", "url":"vd60.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 
 
 			{"name":"w12", "aut": "", "thu":"jd12.dt", "url":"vd12.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
