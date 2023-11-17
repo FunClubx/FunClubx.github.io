@@ -80,6 +80,10 @@
 			{"name":"w85", "aut": "", "thu":"jd85.dt", "url":"vd85.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 			{"name":"w86", "aut": "", "thu":"jd86.dt", "url":"vd86.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 			{"name":"w87", "aut": "", "thu":"jd87.dt", "url":"vd87.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w88", "aut": "", "thu":"jd88.dt", "url":"vd88.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w89", "aut": "", "thu":"jd89.dt", "url":"vd89.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w90", "aut": "", "thu":"jd90.dt", "url":"vd90.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w91", "aut": "", "thu":"jd91.dt", "url":"vd91.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 
 			{"name":"w55", "aut": "", "thu":"jd55.dt", "url":"vd55.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 			{"name":"w3", "aut": "", "thu":"jd3.dt", "url":"vd3.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
