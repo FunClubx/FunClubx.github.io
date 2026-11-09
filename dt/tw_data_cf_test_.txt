@@ -122,7 +122,10 @@
 			{"name":"w128", "aut": "", "thu":"jd128.dt", "url":"vd128.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 			{"name":"w129", "aut": "", "thu":"jd129.dt", "url":"vd129.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 			{"name":"w130", "aut": "", "thu":"jd130.dt", "url":"vd130.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
-
+			{"name":"w131", "aut": "", "thu":"jd131.dt", "url":"vd131.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w132", "aut": "", "thu":"jd132.dt", "url":"vd132.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w133", "aut": "", "thu":"jd133.dt", "url":"vd133.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
+			{"name":"w134", "aut": "", "thu":"jd134.dt", "url":"vd134.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 
 			{"name":"w125", "aut": "", "thu":"jd125.dt", "url":"vd125.dt", "cat":"lv", "par":"true","pre":"true", "sku": ""},
 			{"name":"w126", "aut": "", "thu":"jd126.dt", "url":"https://paraxwall.suidetrading.com/selfad/vd126.zip", "cat":"lv", "par":"true","pre":"true", "sku": ""},
